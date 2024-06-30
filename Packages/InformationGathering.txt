@@ -1,0 +1,57 @@
+Acccheck		|	apt-get install acccheck
+Ace-Voip		|	apt-get install ace-voip
+Amap			|	apt-get install amap
+Automater		|	apt-get install automater
+Bing-IP2hosts		|	wget http://www.morningstarsecurity.com/downloads/bing-ip2hosts-0.4.tar.gz && tar -xzvf bing-ip2hosts-0.4.tar.gz && cp bing-ip2hosts-0.4/bing-ip2hosts /usr/local/bin/
+braa			|	apt-get install braa
+CaseFile		|	apt-get install casefile
+CDPSnarf		|	apt-get install cdpsnarf
+Cisco Torch		|	apt-get install cisco-torch
+Cookie-Cadger		|	apt-get install cookie-cadger
+Copy Router Config	|	apt-get install copy-router-config
+DMitry			|	apt-get install dmitry
+DNmap			|	apt-get install dnmap
+DNSenum			|	apt-get install dnsenum
+DNSmap			|	apt-get install dnsmap
+DNSRecon		|	apt-get install dnsrecon
+DNStracer		|	apt-get install dnstracer
+DNSwalk			|	apt-get install dnswalk
+DotDotPwn		|	apt-get install dotdotpwn
+Enum4linux		|	apt-get install enum4linux
+EnumIAX			|	apt-get install enumiax
+ExploitDB		|	apt-get install exploitdb
+Fierce			|	apt-get install fierce
+Firewalk		|	apt-get install firewalk
+Fragroute		|	apt-get install fragroute
+Fragrouter		|	apt-get install fragrouter
+Ghost Phisher		|	apt-get install ghost-phisher
+GoLismero		|	apt-get install golismero
+Goofile			|	apt-get install goofile
+LDB			|	apt-get install lbd
+Maltego Teeth		|	apt-get install maltego-teeth
+Masscan			|	apt-get install masscan
+Metagoofil		|	apt-get install metagoofil
+Miranda			|	apt-get install miranda
+Nmap			|	apt-get install nmap
+Ntop			|	echo 'ntop is unavailable !! !!'
+p0f			|	apt-get install p0f
+Parsero			|	apt-get install parsero
+Recon-ng		|	apt-get install recon-ng
+SET			|	apt-get install set
+SMTP User Enum		|	apt-get install smtp-user-enum
+Snmpcheck		|	apt-get install snmpcheck
+SSLcaudit		|	apt-get install sslcaudit
+SSLsplit		|	apt-get install sslsplit
+SSLstrip		|	apt-get install sslstrip
+SSLyze			|	apt-get install sslyze
+THC-IPV6		|	apt-get install thc-ipv6
+TheHarvester		|	apt-get install theharvester
+TLSSLed			|	apt-get install tlssled
+twofi			|	apt-get install twofi
+URLCrazy		|	apt-get install urlcrazy
+Wireshark		|	apt-get install wireshark
+WOL-E			|	apt-get install wol-e
+Xplico			|	apt-get install xplico
+iSMTP			|	apt-get install ismtp
+InTrace			|	apt-get install intrace
+hping3			|	apt-get install hping3

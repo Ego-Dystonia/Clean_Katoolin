@@ -1,0 +1,11 @@
+APKtool		|	apt-get install apktool
+dex2jar		|	apt-get install dex2jar
+diStorm3	|	apt-get install python-diStorm3
+EDB-Debugger	|	apt-get install edb-debugger
+Jad		|	apt-get install jad
+Javasnoop	|	apt-get install javasnoop
+JD-GUI		|	apt-get install JD
+OllyDbg		|	apt-get install OllyDbg
+Smali		|	apt-get install smali
+Valgrind	|	apt-get install Valgrind
+YARA		|	apt-get install YARA

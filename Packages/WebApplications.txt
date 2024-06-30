@@ -1,0 +1,41 @@
+Apache-Users		|	apt-get install apache-users
+Arachni			|	apt-get install arachni
+BBQSQL			|	apt-get install bbqsql
+BlindElephant		|	apt-get install blindelephant
+Burp Suite		|	apt-get install burpsuite
+Commix			|	apt-get install git && git clone https://github.com/stasinopoulos/commix.git commix && cd commix && python ./commix.py --install
+CutyCapt		|	apt-get install cutycapt
+DAVTest			|	apt-get install davtest
+Deblaze			|	apt-get install deblaze
+DIRB			|	apt-get install dirb
+DirBuster		|	apt-get install dirbuster
+Fimap			|	apt-get install fimap
+FunkLoad		|	apt-get install funkload
+Grabber			|	apt-get install grabber
+Jboss-Autopwn		|	apt-get install jboss-autopwn
+Joomscan		|	apt-get install joomscan
+jSQL			|	apt-get install jsql
+Maltego Teeth		|	apt-get install maltego-teeth
+PadBuster		|	apt-get install padbuster
+Paros              	|	apt-get install paros
+Parsero           	|	apt-get install parsero
+Plecost            	|	apt-get install plecost
+Powerfuzzer        	|	apt-get install powerfuzzer
+ProxyStrike        	|	apt-get install proxystrike
+Recon-ng           	|	apt-get install recon-ng
+Skipfish           	|	apt-get install skipfish
+SQLmap             	|	apt-get install sqlmap
+SQLninja           	|	apt-get install sqlninja
+SQLsus             	|	apt-get install sqlsus
+UA-Tester          	|	apt-get install ua-tester
+Uniscan            	|	apt-get install uniscan
+Vega               	|	apt-get install vega
+w3af               	|	apt-get install w3af
+WebScarab          	|	apt-get install webscarab
+Webshag            	|	echo 'Webshag is unavailable !! !!'
+WebSlayer          	|	apt-get install git && git clone git://git.kali.org/packages/webslayer.git
+WebSploit          	|	apt-get install websploit
+Wfuzz              	|	apt-get install wfuzz
+WPScan             	|	apt-get install wpscan
+XSSer             	|	apt-get install xsser
+zaproxy           	|	apt-get install zaproxy

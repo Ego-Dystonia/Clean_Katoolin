@@ -1,0 +1,14 @@
+DHCPig		|	apt-get install dhcpig
+FunkLoad	|	apt-get install funkload
+Iaxflood	|	apt-get install iaxflood
+Inundator	|	apt-get install git && git clone git://git.kali.org/packages/inundator.git
+Inviteflood	|	apt-get install inviteflood
+IPv6-toolkit	|	apt-get install ipv6-toolkit
+mdk3		|	apt-get install mdk3
+Reaver		|	apt-get install reaver
+RTPflood	|	apt-get install rtpflood
+SlowHTTPTest	|	apt-get install slowhttptest
+t50		|	apt-get install t50
+Termineter	|	apt-get install termineter
+THC-IPV6	|	apt-get install thc-ipv6
+THC-SSL-DOS 	|	apt-get install thc-ssl-dos

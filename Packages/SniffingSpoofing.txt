@@ -1,0 +1,32 @@
+Burp Suite		|  	 apt-get install burpsuite
+DNSChef			|  	 apt-get install dnschef
+Fiked			| 	 apt-get install fiked
+Hamster-SideJack	| 	 apt-get install hamster-sidejack
+HexInject		|  	 apt-get install hexinject
+Iaxflood		| 	 apt-get install iaxflood
+Inviteflood		| 	 apt-get install inviteflood
+iSMTP			| 	 apt-get install ismtp
+Isr-Evilgrade		|  	 apt-get install git && git clone git://git.kali.org/packages/isr-evilgrade.git
+Mitmproxy		|  	 apt-get install mitmproxy
+Ohrwurm			|  	 apt-get install ohrwurm
+Protos-Sip		| 	 apt-get install protos-sip
+Rebind			| 	 apt-get install rebind
+Responder		| 	 apt-get install responder
+Rtpbreak		| 	 apt-get install rtpbreak
+Rtpinsertsound		|  	 apt-get install rtpinsertsound
+Rtpmixsound         	|  	 apt-get install rtpmixsound
+Sctpscan            	|  	 apt-get install sctpscan
+SIPArmyKnife       	|  	 apt-get install siparmyknife
+SIPp                	|  	 apt-get install sipp
+SIPVicious         	|  	 apt-get install sipvicious
+SniffJoke           	|  	 apt-get install sniffjoke
+SSLsplit            	|  	 apt-get install sslsplit
+SSLstrip            	|  	 apt-get install sslstrip
+THC-IPV6            	|  	 apt-get install thc-ipv6
+VoIPHopper          	|  	 apt-get install voiphopper
+WebScarab           	|  	 apt-get install webscarab
+Wifi Honey          	| 	 apt-get install wifi-honey
+Wireshark           	|  	 apt-get install wireshark
+xspy                	| 	 apt-get install xspy
+Yersinia            	| 	 apt-get install yersinia
+zaproxy             	| 	 apt-get install zaproxy

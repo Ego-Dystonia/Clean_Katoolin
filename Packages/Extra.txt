@@ -1,0 +1,2 @@
+Wifresti	|	apt-get install git && git clone https://github.com/LionSec/wifresti.git && cp wifresti/wifresti.py /usr/bin/wifresti && chmod +x /usr/bin/wifresti && wifresti
+Squid3		|	apt-get install squid3

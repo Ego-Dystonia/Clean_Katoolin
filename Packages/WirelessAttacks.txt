@@ -1,0 +1,31 @@
+Aircrack-ng         |   apt-get install aircrack-ng
+Asleap              |   apt-get install asleap
+Bluelog             |   apt-get install bluelog
+BlueMaho            |   apt-get install git && git clone git://git.kali.org/packages/bluemaho.git
+Bluepot             |   apt-get install git && git clone git://git.kali.org/packages/bluepot.git
+BlueRanger          |   apt-get install blueranger
+Bluesnarfer         |   apt-get install bluesnarfer
+Bully               |   apt-get install bully
+CoWPAtty            |   apt-get install cowpatty
+Crackle             |   apt-get install crackle
+Eapmd5pass	    |   apt-get install eapmd5pass
+Fern Wifi Cracker   |   apt-get install fern-wifi-cracker
+Ghost Phisher       |   apt-get install ghost-phisher
+GISKismet           |   apt-get install giskismet
+GR-Scan             |   apt-get install git && git clone git://git.kali.org/packages/gr-scan.git
+Kalibrate-RTL       |   apt-get install kalibrate-rtl
+KillerBee           |   apt-get install killerbee
+Kismet              |   apt-get install kismet
+mdk3                |   apt-get install mdk3
+mfcuk               |   apt-get install mfcuk
+mfoc                |   apt-get install mfoc
+mfterm              |   apt-get install mfterm
+Multimon-NG         |   apt-get install multimon-ng
+PixieWPS            |   apt-get install pixiewps
+Reaver              |   apt-get install reaver
+redfang             |   apt-get install redfang
+RTLSDR-Scanner      |   apt-get install rtlsdr-scanner
+Spooftooph          |   apt-get install spooftooph
+Wifi Honey          |   apt-get install wifi-honey
+Wifitap             |   apt-get install wifitap
+Wifite              |   apt-get install wifite

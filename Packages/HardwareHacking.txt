@@ -1,0 +1,6 @@
+Android-SDK	|	apt-get install android-sdk
+Apktool		|	apt-get install apktool
+Arduino		|	apt-get install arduino
+dex2jar		|	apt-get install dex2jar
+Sakis3G		|	apt-get install sakis3g
+Smali		|	apt-get install smali

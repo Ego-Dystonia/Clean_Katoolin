@@ -1,0 +1,16 @@
+CryptCat	|	apt-get install cryptcat
+Cymothoa	|	apt-get install cymothoa
+dbd		|	apt-get install dbd
+DNS2tcp		|	apt-get install dns2tcp
+HTTP-Tunnel	|	apt-get install http-tunnel
+HTTPTunnel	|	apt-get install httptunnel
+Intersect	|	apt-get install intersect
+Nishang		|	apt-get install nishang
+Polenum		|	apt-get install polenum
+PowerSploit	|	apt-get install powersploit
+pwnat		|	apt-get install pwnat
+RidEnum		|	apt-get install ridenum
+SBD		|	apt-get install sbd
+U3-Pwn		|	apt-get install u3-pwn
+Webshells	|	apt-get install webshells
+Weevely		|	apt-get install weevely

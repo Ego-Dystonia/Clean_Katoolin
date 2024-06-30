@@ -1,0 +1,23 @@
+Binwalk			|	apt-get install binwalk
+Bulk-Extractor		|	apt-get install bulk-extractor
+Capstone		|	apt-get install git && git clone git://git.kali.org/packages/capstone.git
+Chntpw			|	apt-get install chntpw
+Cuckoo			|	apt-get install cuckoo
+dc3dd			|	apt-get install dc3dd
+ddrescue		|	apt-get install ddrescue
+DFF			|	echo 'dff is unavailable !! !!'
+diStorm3		|	apt-get install git && git clone git://git.kali.org/packages/distorm3.git
+Dumpzilla		|	apt-get install dumpzilla 
+Extundelete		|	apt-get install extundelete
+Foremost		|	apt-get install foremost
+Galleta			|	apt-get install galleta
+Guymager		|	apt-get install guymager
+iPhone Backup Analyzer	|	apt-get install iphone-backup-analyzer
+p0f			|	apt-get install p0f
+PDF-Parser		|	apt-get install pdf-parser
+PDFid			|	apt-get install pdfid
+pdgmail			|	apt-get install pdgmail
+peepdf			|	apt-get install peepdf
+RegRipper		|	echo 'Regripper is unavailable !! !!'
+Volatility		|	apt-get install volatility
+Xplico			|	apt-get install xplico

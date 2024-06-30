@@ -1,0 +1,9 @@
+CaseFile	|	apt-get install casefile
+CutyCapt	|	apt-get install cutycapt
+DOS2unix	|	apt-get install dos2unix
+Dradis		|	apt-get install dradis
+KeepNote	|	apt-get install keepnote
+MagicTree	|	apt-get install magictree
+Metagoofil	|	apt-get install metagoofil
+Nipper-ng	|	apt-get install nipper-ng
+pipal		|	apt-get install pipal
