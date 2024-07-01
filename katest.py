@@ -88,9 +88,9 @@ def ASCII_art():
  \__|  \__| \_______|   \____/  \______/  \______/ \__|\__|\__|  \__| V2.2 \033[1;m
 
 
- \033[1;32m+ -- -- +=[ Author: LionSec | Homepage: www.neodrix.com\033[1;m
- \033[32m+ -- -- +=[ Co-Author: Ego-Dystonia | Homepage: https://github.com/Ego-Dystonia\033[1;m
- \033[1;32m+ -- -- +=[ 331 Tools \033[1;m
+ \033[32m+ -- -- +=[ Author: LionSec | Homepage: www.neodrix.com\033[m
+ \033[1;32m+ -- -- +=[ Co-Author: Ego-Dystonia | Homepage: https://github.com/Ego-Dystonia\033[1;m
+ \033[32m+ -- -- +=[ 331 Tools \033[m
 
 
 \033[1;31m[W] Before updating your system , please remove all Kali-linux repositories to avoid any kind of problem .\033[1;m
