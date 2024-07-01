@@ -3,7 +3,7 @@
 [![Python](https://img.shields.io/badge/language-Python%203-blue.svg)](https://www.python.org)
 [![GPL-3.0](https://img.shields.io/badge/license-GPL--3.0-red.svg)]([http://www.wtfpl.net/](https://www.gnu.org/licenses/gpl-3.0.en.html))
 
-[![Ego-Dystonia](https://img.shields.io/badge/author--Ego-Dystonia/DedSecTL-red.svg)](https://github.com/Ego-Dystonia)
+[![Ego-Dystonia](https://img.shields.io/badge/author-Ego--Dystonia-red.svg)](https://github.com/Ego-Dystonia)
 
 
 This project is an improved version of [LionSec's Katoolin code](https://github.com/LionSec/katoolin?tab=readme-ov-file#katoolin). In this version, everything is simplified as much as possible and organized into clean code with no repetition, making it easy to understand and read.
