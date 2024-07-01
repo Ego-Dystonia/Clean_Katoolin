@@ -1,7 +1,7 @@
 [![Python](https://img.shields.io/badge/language-Python%203-blue.svg)](https://www.python.org)
 [![GPL-3.0](https://img.shields.io/badge/license-GPL--3.0-c21616.svg)]([http://www.wtfpl.net/](https://www.gnu.org/licenses/gpl-3.0.en.html))
 
-![image](https://github.com/Ego-Dystonia/Clean_Katoolin/assets/174164991/e43c1d78-2611-4112-acaf-0c9e98f7d377)
+![image](https://github.com/Ego-Dystonia/Clean_Katoolin/assets/174164991/99e079b7-1f3e-4eff-86a2-df14273fcd0e)
 
 [![Ego-Dystonia](https://img.shields.io/badge/author-Ego--Dystonia-8A2BE2.svg)](https://github.com/Ego-Dystonia)
 
