@@ -19,5 +19,5 @@ This project is an improved version of [LionSec's Katoolin code](https://github.
 sudo su
 git clone https://github.com/Ego-Dystonia/Clean_Katoolin
 chmod +x Clean_Katoolin/katest.py
-sudo katest.py
+sudo Clean_Katoolin/katest.py
 ```
